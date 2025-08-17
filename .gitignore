@@ -1,0 +1,12 @@
+# Folders we don't want to upload
+__pycache__/
+*.pyc
+*.pkl
+.env
+.vscode/
+.DS_Store
+
+# Data and trained models
+/data/processed/
+/models/
+/reports/
