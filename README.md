@@ -1,5 +1,11 @@
 # Customer Churn Predictor 📊
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)](https://pandas.pydata.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E.svg)](https://scikit-learn.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Este proyecto implementa un pipeline completo de **análisis y predicción de churn (fuga de clientes)**.  
 El objetivo es demostrar buenas prácticas en **análisis de datos, preprocesamiento, modelado y despliegue reproducible**.
 
